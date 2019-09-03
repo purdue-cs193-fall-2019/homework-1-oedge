@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Owen Edge's first CS193 homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- That fishy thingy
+- vaping the iclickers
 
 1. Numbered
 2. List
